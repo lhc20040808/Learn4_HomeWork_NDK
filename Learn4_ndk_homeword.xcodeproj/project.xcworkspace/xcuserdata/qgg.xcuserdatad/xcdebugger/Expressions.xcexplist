@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "sortByPop:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "tmpEnd-&gt;data">
+            </PersistentString>
+            <PersistentString
+               value = "tmpHead-&gt;next-&gt;data">
+            </PersistentString>
+            <PersistentString
+               value = "tmpHead-&gt;data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;i">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;j">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "enqueue:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "(char *)data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "swap:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(*a)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "sortByInster:main.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "(char*)point-&gt;data">
+            </PersistentString>
+            <PersistentString
+               value = "*(int*)tmpNum">
+            </PersistentString>
+            <PersistentString
+               value = "(char*)head-&gt;next-&gt;data">
+            </PersistentString>
+            <PersistentString
+               value = "(*cmp)(point-&gt;data,tmpNum)">
+            </PersistentString>
+            <PersistentString
+               value = "*(int*)sortPos-&gt;data">
+            </PersistentString>
+            <PersistentString
+               value = "head">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
